@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+graphSEG2.egg-info/PKG-INFO
+graphSEG2.egg-info/SOURCES.txt
+graphSEG2.egg-info/dependency_links.txt
+graphSEG2.egg-info/top_level.txt
